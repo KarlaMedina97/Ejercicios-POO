@@ -1,6 +1,7 @@
-# Actividad 2 - Ejercicio 2.1: Clase Persona
+# Actividad 2 
 
 ## Descripcion
+Ejercicio 2.1: Clase Persona
 
 Este ejercicio modela el concepto de una persona mediante una clase en Python.
 Cada persona tiene nombre, apellido, numero de documento de identidad y anio de nacimiento.
@@ -15,10 +16,18 @@ La clase `Persona` incluye:
 
 ## Ejecucion
 
-Desde esta carpeta, ejecuta:
+Para ejecutar el Ejercicio 2.1 desde esta carpeta:
 
 ```bash
 python ejercicio1.py
+```
+
+El Ejercicio 2.2 implementa la clase `Planeta`, sus atributos primitivos, el
+tipo enumerado `TipoPlaneta`, el calculo de densidad y la identificacion de
+planetas exteriores. Se ejecuta con:
+
+```bash
+python ejercicio_2.py
 ```
 
 ## Ejemplo de salida
