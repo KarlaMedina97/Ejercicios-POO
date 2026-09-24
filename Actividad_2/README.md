@@ -1,4 +1,4 @@
-# Actividad 2: Clase Persona
+# Actividad 2 - Ejercicio 2.1: Clase Persona
 
 ## Descripcion
 
