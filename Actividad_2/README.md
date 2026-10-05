@@ -1,51 +1,35 @@
-# Actividad 2 
+# Actividad 2
 
-## Descripcion
-Ejercicio 2.1: Clase Persona
+La Actividad 2 esta compuesta por cinco ejercicios, numerados del 2.1 al 2.5,
+implementados en Python. Los nombres de los archivos Python son consecutivos y
+no reemplazan la numeracion de los ejercicios.
 
-Este ejercicio modela el concepto de una persona mediante una clase en Python.
-Cada persona tiene nombre, apellido, numero de documento de identidad y anio de nacimiento.
+## Ejercicios
 
-## Implementacion
-
-La clase `Persona` incluye:
-
-- Un constructor para inicializar sus atributos.
-- El metodo `mostrar_atributos()` para imprimir los datos de la persona.
-- Una funcion `main()` que crea y muestra dos personas.
+| Numeracion del ejercicio | Archivo Python | Contenido |
+| --- | --- | --- |
+| 2.1 | `ejercicio1.py` | Clase `Persona` con datos personales e impresion de atributos. |
+| 2.2 | `ejercicio2.py` | Clase `Planeta`, tipos de planeta, densidad y clasificacion de planetas exteriores. |
+| 2.3 | `ejercicio3.py` | Clase `Persona` con pais de nacimiento y genero. |
+| 2.4 | `ejercicio4.py` | Figuras geometricas con calculo de area y perimetro. |
+| 2.5 | `ejercicio5.py` | Cuenta bancaria con consulta de saldo, consignaciones y retiros. |
 
 ## Ejecucion
 
-Para ejecutar el Ejercicio 2.1 desde esta carpeta:
+Ejecuta el archivo correspondiente desde esta carpeta:
 
 ```bash
 python ejercicio1.py
+python ejercicio2.py
+python ejercicio3.py
+python ejercicio4.py
+python ejercicio5.py
 ```
 
-El Ejercicio 2.2 implementa la clase `Planeta`, sus atributos primitivos, el
-tipo enumerado `TipoPlaneta`, el calculo de densidad y la identificacion de
-planetas exteriores. Se ejecuta con:
-
-```bash
-python ejercicio_2.py
-```
-
-## Ejemplo de salida
-
-```text
-Persona 1:
-Nombre: Ana
-Apellido: Gomez
-Numero de documento: 123456789
-Anio de nacimiento: 2000
-
-Persona 2:
-Nombre: Carlos
-Apellido: Rodriguez
-Numero de documento: 987654321
-Anio de nacimiento: 1998
-```
+En el ejercicio 2.4, `PruebaFiguras.main()` crea las cuatro figuras y muestra
+los resultados de sus metodos. En el ejercicio 2.5, un retiro que supera el
+saldo disponible no modifica la cuenta.
 
 ## Fuente
 
-Los ejercicios de esta actividad se basan en el libro *Ejercicios de programacion orientada a objetos con Java y UML*, de Leonardo Bermon Angarita.
+La actividad toma como referencia los ejercicios de programacion orientada a objetos con Java de Leonardo Bermon Angarita.
