@@ -1,0 +1,5 @@
+Este es el archivo prueba.txt
+Se lee utilizando un flujo de bytes.
+Cada linea del archivo se muestra en pantalla.
+Programacion Orientada a Objetos - Universidad Nacional de Colombia
+Jaja, salu2.
