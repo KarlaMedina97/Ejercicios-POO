@@ -1,4 +1,3 @@
-@ -0,0 +1,97 @@
 import io
 import os
 import tkinter as tk
