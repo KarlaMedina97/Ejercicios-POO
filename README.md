@@ -12,6 +12,7 @@ Universidad Nacional de Colombia, Sede Medellín.
 - [Actividad 2](Actividad_2/) — Clases, atributos, métodos y programación orientada a objetos con ejercicios prácticos
 - [Actividad 3](Actividad_3/) — Interfaces gráficas y jerarquía de figuras geométricas
 - [Actividad 4](Actividad_4/) — Manejo de excepciones y lectura de archivos con interfaz gráfica
+- [Actividad 5](Actividad_5/) — Interfaces gráficas con cuadros de diálogo y administradores de diseño
 
 ## Cómo ejecutar
 
@@ -20,4 +21,5 @@ python Actividad_1/Ejercicio1.py
 python Actividad_2/ejercicio1.py
 python Actividad_3/Ejercicio1.py
 python Actividad_4/Ejercicio1.py
+python Actividad_5/Ejercicio1.py
 ```
